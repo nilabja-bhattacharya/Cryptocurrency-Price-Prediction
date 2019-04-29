@@ -1,4 +1,4 @@
-# Predictive Analysis of Cryptocurrency Price Using Deep Learning
+## Predictive Analysis of Cryptocurrency Price Using Deep Learning
 
 The decentralization of cryptocurrencies has
 greatly reduced the level of central control over them, impacting
@@ -13,9 +13,8 @@ lution1D and the long short-term memory (LSTM),which are
 effective learning models for training data, with the LSTM
 being better at recognizing longer-term associations. The pro-
 posed approach is implemented in Python and validated for
-benchmark datasets. The results verify the applicability of the
-proposed approach for the accurate prediction of cryptocur-
-rency price.
+benchmark datasets.
+
 ### Files
 #### Data Ananlysis
 1. btcoin_Correlation.ipynb
@@ -31,7 +30,7 @@ rency price.
 8. tweet_bitcoin.ipynb - Performce of bitcoin price prediction on incorporating twitter sentiment regarding bitcoin
 
 ### Data
-This folder coltains various crytocurrency dataset extracted from coinmarket
+This folder contains various crytocurrency dataset extracted from coinmarket
 
 ### Model
 Various model that was built and saved for bitcoin prediction
