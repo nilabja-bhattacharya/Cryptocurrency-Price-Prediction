@@ -1,4 +1,4 @@
-#Predictive Analysis of Cryptocurrency Price Using Deep Learning
+# Predictive Analysis of Cryptocurrency Price Using Deep Learning
 
 The decentralization of cryptocurrencies has
 greatly reduced the level of central control over them, impacting
@@ -33,8 +33,8 @@ rency price.
 ### Data
 This folder coltains various crytocurrency dataset extracted from coinmarket
 
-#### Model
+### Model
 Various model that was built and saved for bitcoin prediction
 
-#### Bitcoin dataset link
+### Bitcoin dataset link
 [Bitcoin dataset](https://www.kaggle.com/mczielinski/bitcoin-historical-data)
