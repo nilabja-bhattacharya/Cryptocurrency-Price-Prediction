@@ -8,8 +8,7 @@ way to forecast this price. This paper proposes a novel method
 to predict cryptocurrency price by considering various factors
 such as market cap, volume, circulating supply, and maximum
 supply based on deep learning techniques such as the recurrent
-neural network (RNN), Gated Recurrent Unit (GRU), Convo-
-lution1D and the long short-term memory (LSTM),which are
+neural network (RNN), Gated Recurrent Unit (GRU), Convolution1D and the long short-term memory (LSTM),which are
 effective learning models for training data, with the LSTM
 being better at recognizing longer-term associations. The pro-
 posed approach is implemented in Python and validated for
